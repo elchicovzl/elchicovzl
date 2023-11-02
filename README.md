@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nZkiUiDE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yfwwqenae7gx9u8bavtj.png">
 
 <h2> Hey there! I'm Miguel.</h2>
 
@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/inmiguel-vizcaino-04668764/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/inmiguel-vizcaino-04668764/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Miguel%20Vizcaino-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [elchicovzl](https://github.com/elchicovzl)
