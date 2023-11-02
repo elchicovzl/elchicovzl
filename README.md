@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<img src="https://images.pexels.com/photos/18981448/pexels-photo-18981448.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 <h2> Hey there! I'm Miguel.</h2>
 
@@ -13,7 +13,7 @@
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
-  ![NEXTJS](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
+  ![NEXTJS](https://img.shields.io/badge/-NEXTJS-333333?style=flat&logo=nextjs)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
